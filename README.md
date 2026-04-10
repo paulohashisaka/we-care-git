@@ -3,5 +3,5 @@
 <br>
 <h2>Este foi um projeto que eu desenvolvi com o DevClub</h2>
 
-<img src=https://github.com/paulohashisaka/we-care-git/blob/main/Assets/We-care-desktop.png?raw=true>
+<img src="https://github.com/paulohashisaka/we-care-git/blob/main/Assets/We-care-desktop.png?raw=true">
 
