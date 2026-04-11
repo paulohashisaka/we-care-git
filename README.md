@@ -1,7 +1,12 @@
-<h1>We Care</h1>
+<h1 align="center">We Care</h1>
 <br>
 <br>
-<h2>Este foi um projeto que eu desenvolvi estudando com o DevClub</h2>
+
+## Acknowledgements
+
+This project was developed as part of my studies with **DevClub**.
+
+Special thanks to [@rodolfomori](https://github.com/rodolfomori) for the guidance, support, and valuable lessons that helped me build this project and continue growing as a developer.
 
 <img src="https://github.com/paulohashisaka/we-care-git/blob/main/Assets/We-care-desktop.png?raw=true">
 
